@@ -1,0 +1,42 @@
+main
+buscarPorTamano
+buscarHotel
+realizarReserva
+buscarReservaPorCedula
+imprimirReserva
+pagarReserva
+Reserva realizada:
+Cliente: 
+Cédula: 
+Habitación: 5 (doble) en Swissotel
+Precio: 100.00
+
+Detalles de la reserva:
+Número de Reserva: 0
+Cliente: James
+Cédula: 123
+Habitación: 1
+Tipo de Habitación: simple
+Hotel: Dan Carlton
+Precio: 90.00
+Estado: Pagada
+
+Detalles de la reserva:
+Número de Reserva: 0
+Cliente: James
+Cédula: 123
+Habitación: 1
+Tipo de Habitación: simple
+Hotel: Dan Carlton
+Precio: 90.00
+Estado: Pagada
+
+Reserva pagada:
+Número de Reserva: 0
+Cliente: James
+Cédula: 123
+Habitación: 1
+Tipo de Habitación: simple
+Hotel: Dan Carlton
+Precio: 90.00
+
